@@ -1,0 +1,4 @@
+﻿probe,n,metric,value,interpretation
+equivalent_wrapper,52,unchanged_original_verdict,1.0,У 52 из 52 решений обёртка с передачей аргументов сохранила исходный вердикт.
+accept_all,52,disagreement_with_extended,0.28846153846153844,Базовая линия принимает все решения. Расширенные тесты отклонили 15 из 52.
+original_vs_extended,49,false_pass_rate,0.2653061224489796,Из 49 принятых исходными тестами расширенные отклонили 13. Это результат пилота.
